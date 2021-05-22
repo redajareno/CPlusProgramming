@@ -1,4 +1,4 @@
 # C++ Programming
-Projects in C++ language
+Homeworks & Projects in C++ language
 
-Within this repository are projects that are school based.
+Within this repository are homeworks & projects that are school based.
